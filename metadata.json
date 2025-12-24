@@ -1,0 +1,5 @@
+{
+  "name": "Super Gomoku: Skill Battle",
+  "description": "A twist on the classic Five-in-a-Row game featuring special skills like 'Flying Sand', 'Still Water', and 'Mountain Move'. Play against a friend or the smart offline AI.",
+  "requestFramePermissions": []
+}
